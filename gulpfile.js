@@ -9,7 +9,7 @@ var browserSync = require('browser-sync').create();
 var paths = {
     styles: {
         src:  './assets/css/scss/**/*.scss',
-        dest: './'
+        dest: './assets/css'
     }
 };
 
